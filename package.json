@@ -1,5 +1,5 @@
 {
-  "name": "ra-language-vietnamese",
+  "name": "@completejavascript/ra-language-vietnamese",
   "version": "1.0.0",
   "description": "Vietnamese messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
@@ -34,7 +34,7 @@
     "translation",
     "language-vietnamese"
   ],
-  "author": "Lam Pham",
+  "author": "Lam Pham <completejavascript.super@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/completejavascript/ra-language-vietnamese/issues"
